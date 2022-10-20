@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi my name is Milton/ a future Frontend Developer👋
 
-<!--
-**miltongonc/miltongonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨  ✨ 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently living in Munich
 
-- 🔭 I’m currently ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Html, CSS, JavaScript
+
+- 👯 I’m looking to collaborate 
+
+- 🤔 I’m looking for help with everything that has to do with Frontend Development
+
+- 📫 How to reach me: E-mail: blabla@oulook.de
+
+- ⚡ Fun fact: I speak 4 languages (portuguese, german, english and spanish)
+
