@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with everything that has to do with Frontend Development
 
-- 📫 How to reach me: E-mail: blabla@oulook.de
+- 📫 How to reach me: E-mail: Milton_Garcia@outlook.de
 
 - ⚡ Fun fact: I speak 4 languages (portuguese, german, english and spanish)
 
